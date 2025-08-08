@@ -4,7 +4,6 @@ However, my key strength in these engineering topics are in numerical simulation
 In the future I want to head more towards actual software development in an area where my previously mentioned knowledge from my degree is required.
 Currently working a lot with Python and Matlab, and a little bit of C++.
 
-- 💞️ I’m looking to collaborate on scientific software and models for engineering purposes-
-- 📫 chabs300@proton.me
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Still trying to find time for my first peer-reviewed journal paper. 
+- I’m looking to collaborate on scientific software and models for engineering purposes.
+- chabs300@proton.me
+
